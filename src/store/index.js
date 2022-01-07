@@ -8,7 +8,7 @@ import VuexPersistence from "vuex-persist";
 
 Vue.use(Vuex);
 const persistenceOptions = {
-  key: ["vuex", "quiccourse-admin"].join("-"),
+  key: ["vuex", "hcmus-course-admin"].join("-"),
   storage: window.localStorage,
 };
 

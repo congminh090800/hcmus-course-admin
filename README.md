@@ -1,6 +1,6 @@
-# quiccourse-admin
+# hcmus-course-admin
 
-> ## Description: admin for quiccourse
+> ## Description: admin for hcmus-course
 
 > ### host:
 
