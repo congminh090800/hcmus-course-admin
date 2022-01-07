@@ -2,7 +2,7 @@
 
 > ## Description: admin for hcmus-course
 
-> ### host:
+> ### Host: https://hcmus-course-admin.vercel.app/
 
 ## Project setup
 
